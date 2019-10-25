@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>config.properties</comment>
+    <entry key="emailLogin">arafael@omint.com.br</entry>
+    <entry key="passLogin">omint000</entry>
+    <entry key="appPackage">br.com.omint.apps.minhaomint</entry>
+    <entry key="appActivity">br.com.omint.apps.minhaomint.MainActivity</entry>
+    <entry key="deviceName">RQ8M608PEDN</entry>
+    <entry key="urlAppiumServer">http://127.0.0.1:4723/wd/hub</entry>
+</properties>
