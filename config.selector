@@ -1,0 +1,8 @@
+#Converted from config.xml
+#Fri Oct 25 04:49:54 BRT 2019
+deviceName=RQ8M608PEDN
+appPackage=br.com.omint.apps.minhaomint
+appActivity=br.com.omint.apps.minhaomint.MainActivity
+emailLogin=arafael@omint.com.br
+urlAppiumServer=http\://127.0.0.1\:4723/wd/hub
+passLogin=omint000

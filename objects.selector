@@ -1,0 +1,8 @@
+#Converted from objectsSelector.xml
+#Fri Oct 25 04:51:56 BRT 2019
+btnAcessar=//android.webkit.WebView[@content-desc\="Minha Omint"]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[2]/android.view.View/android.view.View[2]/android.view.View
+btnLogin=//android.webkit.WebView[@content-desc\="Minha Omint"]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[2]/android.view.View/android.view.View[2]/android.view.View[2]
+btnIconeMenu=//android.webkit.WebView[@content-desc\="Minha Omint"]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[1]/android.view.View[1]
+inputPass=//android.webkit.WebView[@content-desc\="Minha Omint"]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[2]/android.view.View/android.view.View[1]/android.widget.EditText[2]
+inputEmail=//android.webkit.WebView[@content-desc\="Minha Omint"]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[2]/android.view.View/android.view.View[1]/android.widget.EditText[1]
+btnPermitir=com.android.packageinstaller\:id/permission_allow_button
